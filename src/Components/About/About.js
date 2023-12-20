@@ -20,7 +20,7 @@ function About() {
             <article className="about__card">
               <FaAward/>
               <h5>Experience</h5>
-              <small>6 Months</small>
+              <small>1 year</small>
             </article>
             <article className="about__card">
               <VscFolderLibrary/>
